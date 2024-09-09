@@ -1,0 +1,24 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts",
+      "post-with-code",
+      "posts-with-code/*.qmd",
+      "posts-with-code",
+      "posts/post-with-code",
+      "posts\\Beginning-a-project, posts\\During-a-project, posts\\Ending-a-project",
+      "posts\\Beginning-a-project",
+      "posts\\During-a-project",
+      "posts\\Ending-a-project",
+      "posts\\Beginning-a-project\\index.qmd",
+      "posts\\During-a-project\\index.qmd",
+      "posts\\Ending-a-project\\index.qmd",
+      "articles\\Beginning-a-project\\index.qmd",
+      "articles\\During-a-project\\index.qmd",
+      "articles\\Ending-a-project\\index.qmd",
+      "articles\\Beginning-a-project",
+      "articles\\During-a-project",
+      "articles\\Ending-a-project"
+    ]
+  }
+}
