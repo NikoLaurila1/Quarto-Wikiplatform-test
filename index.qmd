@@ -1,4 +1,7 @@
 ---
+project:
+  type: website
+  output-dir: docs
 listing:
   contents: 
     - articles\Beginning-a-project\index.qmd
