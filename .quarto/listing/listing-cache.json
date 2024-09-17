@@ -3,7 +3,10 @@
     "index.qmd": [
       "articles\\Beginning-a-project\\index.qmd",
       "articles\\During-a-project\\index.qmd",
-      "articles\\Ending-a-project\\index.qmd"
+      "articles\\Ending-a-project\\index.qmd",
+      "articles\\Beginning-a-project",
+      "articles\\During-a-project",
+      "articles\\Ending-a-project"
     ]
   }
 }

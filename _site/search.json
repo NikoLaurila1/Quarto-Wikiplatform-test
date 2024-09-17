@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Koodariverstas Wiki platform",
     "section": "",
-    "text": "Welcome to the Wiki!\nThis site will act as your one-stop-shop to all of your needs during development in koodariverstas. Here you can find articles based on general project timeline. These articles will help you get started in your work, and guide you through the development process. You can also use the search located in the top right of the wiki.\nThere are also categories listed in the sidebar of the wiki. Take a look around the general category for more specific information regarding technologies we use.\n\nHappy Coding!\n-Koodariverstas staff\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDuring a project\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnding a project\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the Wiki!\nThis site will act as your one-stop-shop to all of your needs during development in koodariverstas. Here you can find articles based on general project timeline. These articles will help you get started in your work, and guide you through the development process. You can also use the search located in the top right of the wiki.\nThere are also categories listed in the sidebar of the wiki. Take a look around the general category for more specific information regarding technologies we use.\n\nHappy Coding!\n-Koodariverstas staff\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nBeginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTips for beginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDuring a project\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManaging a workflow\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGathering feedback\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnding a project\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "articles/General/index.html",
@@ -38,7 +38,7 @@
     "section": "",
     "text": "This is a test post in the “During a project” category",
     "crumbs": [
-      "About koodariverstas",
+      "Home",
       "Articles",
       "During a project"
     ]
@@ -50,7 +50,6 @@
     "section": "",
     "text": "This is a test post in the “Beginning a project” category",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "Beginning a project"
     ]
@@ -72,7 +71,6 @@
     "section": "",
     "text": "This is a test page for the “beginning” category",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "Beginning a project",
       "Tips for beginning a project"
@@ -85,7 +83,7 @@
     "section": "",
     "text": "This is a page about managing a workflow during a project",
     "crumbs": [
-      "About koodariverstas",
+      "Home",
       "Articles",
       "During a project",
       "Managing a workflow"
@@ -98,7 +96,6 @@
     "section": "",
     "text": "This is a test post in the “Ending a project” category",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "Ending a project"
     ]
@@ -110,7 +107,6 @@
     "section": "",
     "text": "Here you can find out more about the tools we use to help our work in koodariverstas.",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "General articles",
       "Tools of trade"
