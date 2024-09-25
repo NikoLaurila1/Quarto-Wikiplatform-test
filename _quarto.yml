@@ -25,7 +25,7 @@ website:
     background: '#593196'
     right:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/NikoLaurila1/Quarto-Wikiplatform-test
       - icon: twitter
         href: https://twitter.com
       - icon: linkedin
