@@ -4,7 +4,7 @@ project:
   output-dir: docs
 listing:
   contents: 
-    - articles
+    - .quarto/idx/articles
   sort: "date desc"
   type: grid
   categories: true
