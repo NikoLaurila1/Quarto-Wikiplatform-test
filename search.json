@@ -24,13 +24,25 @@
   {
     "objectID": "articles/General/General adding test.html",
     "href": "articles/General/General adding test.html",
-    "title": "General adding test",
+    "title": "Adding and Editing pages",
     "section": "",
-    "text": "Welcome to the New Page\nThis is where you can add your content.",
+    "text": "Github articles folder\n\n\n\n\n\n\n\nAdding a file in GitHub\n\n\n\n\n\n---\ntitle: \"Example title (This is the title you want the reader to see and \"interact\" with)\"\ncategory: \"General (This category will be used to sort all articles)\"\ndate: \"25.9.2024\"\n---\n\n\n\n\n\n\nEditing a file",
     "crumbs": [
       "Articles",
       "General articles",
-      "General adding test"
+      "Adding and Editing pages"
+    ]
+  },
+  {
+    "objectID": "articles/General/General adding test.html#if-you-want-to-add-a-new-page-to-the-wiki-head-to-the-github-repository-link-located-at-the-top-right-of-the-page.-github-link-locationinside-the-github-repository-find-the-articles-folder.-inside-the-articles-folder-find-the-category-folder-where-you-want-to-add-your-article.",
+    "href": "articles/General/General adding test.html#if-you-want-to-add-a-new-page-to-the-wiki-head-to-the-github-repository-link-located-at-the-top-right-of-the-page.-github-link-locationinside-the-github-repository-find-the-articles-folder.-inside-the-articles-folder-find-the-category-folder-where-you-want-to-add-your-article.",
+    "title": "Adding and Editing pages",
+    "section": "",
+    "text": "Github articles folder\n\n\n\n\n\n\n\nAdding a file in GitHub\n\n\n\n\n\n---\ntitle: \"Example title (This is the title you want the reader to see and \"interact\" with)\"\ncategory: \"General (This category will be used to sort all articles)\"\ndate: \"25.9.2024\"\n---\n\n\n\n\n\n\nEditing a file",
+    "crumbs": [
+      "Articles",
+      "General articles",
+      "Adding and Editing pages"
     ]
   },
   {
@@ -118,6 +130,6 @@
     "href": "index.html",
     "title": "Koodariverstas Wiki platform",
     "section": "",
-    "text": "Welcome to the Wiki!\nThis site will act as your one-stop-shop to all of your needs during development in koodariverstas. Here you can find articles based on general project timeline. These articles will help you get started in your work, and guide you through the development process. You can also use the search located in the top right of the wiki.\nThere are also categories listed in the sidebar of the wiki. Take a look around the general category for more specific information regarding technologies we use.\n\nHappy Coding!\n-Koodariverstas staff\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDuring a project\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManaging a workflow\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnding a project\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGathering feedback\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTips for beginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral adding test\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools of trade\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral articles\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n2/24/24\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the Wiki!\nThis site will act as your one-stop-shop to all of your needs during development in koodariverstas. Here you can find articles based on general project timeline. These articles will help you get started in your work, and guide you through the development process. You can also use the search located in the top right of the wiki.\nThere are also categories listed in the sidebar of the wiki. Take a look around the general category for more specific information regarding technologies we use.\n\nHappy Coding!\n-Koodariverstas staff\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDuring a project\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManaging a workflow\n\n\n\nDuring a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnding a project\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGathering feedback\n\n\n\nEnding a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTips for beginning a project\n\n\n\nBeginning a project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTools of trade\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdding and Editing pages\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\n\n\n\n\nGeneral articles\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\n\n2/24/24\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
