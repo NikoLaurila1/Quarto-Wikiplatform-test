@@ -12,7 +12,7 @@ execute:
   freeze: auto
 
 website:
-back-to-top-navigation: true
+  back-to-top-navigation: true
   
   title: Koodariverstas Wiki
       [![](EU.png){fig-alt="Co-funded by the european union" width=280px height=70px margin=10px}](https://european-union.europa.eu/index_en)
