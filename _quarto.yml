@@ -4,7 +4,7 @@ project:
 editor:
  repo: "NikoLaurila1/Quarto-Wikiplatform-test"
   # Enable edit links
-  edit: true
+edit: true
 
 execute:
   freeze: auto
