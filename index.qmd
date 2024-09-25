@@ -4,9 +4,7 @@ project:
   output-dir: docs
 listing:
   contents: 
-    - articles\Beginning-a-project
-    - articles\During-a-project
-    - articles\Ending-a-project
+    - articles
   sort: "date desc"
   type: grid
   categories: true
