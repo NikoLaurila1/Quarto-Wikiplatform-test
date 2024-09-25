@@ -1,6 +1,9 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
   
   title: Koodariverstas Wiki
@@ -24,6 +27,7 @@ website:
     style: "floating"
     text: "Articles"
     contents: auto
+    repo-actions: edit
 
   page-footer: 
     left: |
