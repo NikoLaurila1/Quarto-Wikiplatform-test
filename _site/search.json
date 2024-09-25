@@ -13,7 +13,6 @@
     "section": "",
     "text": "This is a test post to test adding posts and filtering",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "General articles"
     ]
@@ -25,7 +24,6 @@
     "section": "",
     "text": "This post is about gathering feedback when ending a project",
     "crumbs": [
-      "About koodariverstas",
       "Articles",
       "Ending a project",
       "Gathering feedback"
@@ -38,7 +36,6 @@
     "section": "",
     "text": "This is a test post in the “During a project” category",
     "crumbs": [
-      "Home",
       "Articles",
       "During a project"
     ]
@@ -83,7 +80,6 @@
     "section": "",
     "text": "This is a page about managing a workflow during a project",
     "crumbs": [
-      "Home",
       "Articles",
       "During a project",
       "Managing a workflow"
