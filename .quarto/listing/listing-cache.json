@@ -1,9 +1,9 @@
 {
   "listingMap": {
     "index.qmd": [
-      "articles\\Beginning-a-project",
-      "articles\\During-a-project",
-      "articles\\Ending-a-project"
+      ".quarto\\idx\\articles\\Beginning-a-project",
+      ".quarto\\idx\\articles\\During-a-project",
+      ".quarto\\idx\\articles\\Ending-a-project"
     ]
   }
 }
