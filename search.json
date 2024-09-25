@@ -22,27 +22,48 @@
     ]
   },
   {
-    "objectID": "articles/Beginning-a-project/tips for beginning.html",
-    "href": "articles/Beginning-a-project/tips for beginning.html",
-    "title": "Tips for beginning a project",
+    "objectID": "articles/General/General adding test.html",
+    "href": "articles/General/General adding test.html",
+    "title": "General adding test",
     "section": "",
-    "text": "This is a test page for the “beginning” category",
+    "text": "Welcome to the New Page\nThis is where you can add your content.",
     "crumbs": [
       "Articles",
-      "Beginning a project",
-      "Tips for beginning a project"
+      "General articles",
+      "General adding test"
     ]
   },
   {
-    "objectID": "articles/Ending-a-project/Gathering feedback.html",
-    "href": "articles/Ending-a-project/Gathering feedback.html",
-    "title": "Gathering feedback",
+    "objectID": "articles/Beginning-a-project/index.html",
+    "href": "articles/Beginning-a-project/index.html",
+    "title": "Beginning a project",
     "section": "",
-    "text": "This post is about gathering feedback when ending a project\ntesting updating in real time\nEdit this page",
+    "text": "This is a test post in the “Beginning a project” category",
     "crumbs": [
       "Articles",
-      "Ending a project",
-      "Gathering feedback"
+      "Beginning a project"
+    ]
+  },
+  {
+    "objectID": "articles/Ending-a-project/index.html",
+    "href": "articles/Ending-a-project/index.html",
+    "title": "Ending a project",
+    "section": "",
+    "text": "This is a test post in the “Ending a project” category",
+    "crumbs": [
+      "Articles",
+      "Ending a project"
+    ]
+  },
+  {
+    "objectID": "articles/During-a-project/index.html",
+    "href": "articles/During-a-project/index.html",
+    "title": "During a project",
+    "section": "",
+    "text": "This is a test post in the “During a project” category",
+    "crumbs": [
+      "Articles",
+      "During a project"
     ]
   },
   {
@@ -58,36 +79,27 @@
     ]
   },
   {
-    "objectID": "articles/During-a-project/index.html",
-    "href": "articles/During-a-project/index.html",
-    "title": "During a project",
+    "objectID": "articles/Ending-a-project/Gathering feedback.html",
+    "href": "articles/Ending-a-project/Gathering feedback.html",
+    "title": "Gathering feedback",
     "section": "",
-    "text": "This is a test post in the “During a project” category",
+    "text": "This post is about gathering feedback when ending a project\ntesting updating in real time\nEdit this page",
     "crumbs": [
       "Articles",
-      "During a project"
+      "Ending a project",
+      "Gathering feedback"
     ]
   },
   {
-    "objectID": "articles/Ending-a-project/index.html",
-    "href": "articles/Ending-a-project/index.html",
-    "title": "Ending a project",
+    "objectID": "articles/Beginning-a-project/tips for beginning.html",
+    "href": "articles/Beginning-a-project/tips for beginning.html",
+    "title": "Tips for beginning a project",
     "section": "",
-    "text": "This is a test post in the “Ending a project” category",
+    "text": "This is a test page for the “beginning” category",
     "crumbs": [
       "Articles",
-      "Ending a project"
-    ]
-  },
-  {
-    "objectID": "articles/Beginning-a-project/index.html",
-    "href": "articles/Beginning-a-project/index.html",
-    "title": "Beginning a project",
-    "section": "",
-    "text": "This is a test post in the “Beginning a project” category",
-    "crumbs": [
-      "Articles",
-      "Beginning a project"
+      "Beginning a project",
+      "Tips for beginning a project"
     ]
   },
   {
