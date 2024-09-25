@@ -1,0 +1,8 @@
+---
+title: "General adding test"
+category: "General"
+---
+
+# Welcome to the New Page
+
+This is where you can add your content.
