@@ -4,7 +4,7 @@ project:
   output-dir: docs
 listing:
   contents: 
-   - auto
+   - articles
   sort: "date desc"
   type: grid
   categories: true
