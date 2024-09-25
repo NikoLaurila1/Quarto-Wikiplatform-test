@@ -1,6 +1,6 @@
 ---
 title: "Adding and Editing pages"
-category: "General"
+category: [General]
 date: "9.25.2024"
 ---
 
@@ -23,7 +23,7 @@ To add a .qmd file simply add .qmd in the file name when finalizing your file (R
 ``` {#metadata .HTML}
 ---
 title: "Example title (This is the title you want the reader to see and "interact" with)"
-category: "General (This category will be used to sort all articles)"
+category: [example_category]
 date: "25.9.2024"
 ---
 ```
