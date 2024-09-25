@@ -5,3 +5,5 @@ categories: [Ending a project]
 ---
 
 This post is about gathering feedback when ending a project
+
+[Edit this page]({{ edit }})
