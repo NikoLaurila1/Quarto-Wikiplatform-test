@@ -1,6 +1,11 @@
 project:
   type: website
 
+editor:
+ repo: "NikoLaurila1/Quarto-Wikiplatform-test"
+  # Enable edit links
+  edit: true
+
 execute:
   freeze: auto
 
