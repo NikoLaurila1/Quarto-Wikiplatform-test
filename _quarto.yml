@@ -35,6 +35,7 @@ website:
     text: "Articles"
     contents: auto
     repo-actions: edit
+back-to-top-navigation: true
 
   page-footer: 
     left: |
