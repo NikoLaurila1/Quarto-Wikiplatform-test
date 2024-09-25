@@ -26,19 +26,7 @@
     "href": "articles/General/General adding test.html",
     "title": "Adding and Editing pages",
     "section": "",
-    "text": "Github articles folder\n\n\n\n\n\n\n\nAdding a file in GitHub\n\n\n\n\n\n---\ntitle: \"Example title (This is the title you want the reader to see and \"interact\" with)\"\ncategory: \"General (This category will be used to sort all articles)\"\ndate: \"25.9.2024\"\n---\n\n\n\n\n\n\nEditing a file",
-    "crumbs": [
-      "Articles",
-      "General articles",
-      "Adding and Editing pages"
-    ]
-  },
-  {
-    "objectID": "articles/General/General adding test.html#if-you-want-to-add-a-new-page-to-the-wiki-head-to-the-github-repository-link-located-at-the-top-right-of-the-page.-github-link-locationinside-the-github-repository-find-the-articles-folder.-inside-the-articles-folder-find-the-category-folder-where-you-want-to-add-your-article.",
-    "href": "articles/General/General adding test.html#if-you-want-to-add-a-new-page-to-the-wiki-head-to-the-github-repository-link-located-at-the-top-right-of-the-page.-github-link-locationinside-the-github-repository-find-the-articles-folder.-inside-the-articles-folder-find-the-category-folder-where-you-want-to-add-your-article.",
-    "title": "Adding and Editing pages",
-    "section": "",
-    "text": "Github articles folder\n\n\n\n\n\n\n\nAdding a file in GitHub\n\n\n\n\n\n---\ntitle: \"Example title (This is the title you want the reader to see and \"interact\" with)\"\ncategory: \"General (This category will be used to sort all articles)\"\ndate: \"25.9.2024\"\n---\n\n\n\n\n\n\nEditing a file",
+    "text": "Adding and Editing pages\nIf you want to add a new page to the wiki, head to the GitHub repository (Link located at the top right of the page).\n\n\n\nGithub link location\n\n\nInside the GitHub repository find the “articles” folder. Inside the articles folder find the category folder where you want to add your article.\n\n\n\nGithub articles folder\n\n\nAfter choosing a folder suitable for your article, you can add a .qmd file directly in GitHub. A .qmd file is automatically formatted and added to the hosted website, they are also sorted by category and inserted into the websites search function.\n\n\n\nAdding a file in GitHub\n\n\nTo add a .qmd file simply add .qmd in the file name when finalizing your file (Red box in the image below). When adding content be sure to integrated metadata from the following code block:\n---\ntitle: \"Example title (This is the title you want the reader to see and \"interact\" with)\"\ncategory: \"General (This category will be used to sort all articles)\"\ndate: \"25.9.2024\"\n---\nThe wiki supports full markdown and lets you have total control over the content of your article. We recommend using a simple markdown editor such as stackedit.\n\n\n\nEditing a file\n\n\nWhen you feel like your article is ready to publish, simply press the green “Commit Changes” button in github. feel free to select the “push changes to main” button. Be sure to add a short description about your article into the commit comment in GitHub. Your article will be pushed to the wiki automatically. it might take a minute or two for your article to show up correctly.",
     "crumbs": [
       "Articles",
       "General articles",
